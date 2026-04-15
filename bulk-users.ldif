@@ -1,0 +1,164 @@
+# ---------- DEVELOPERS ----------
+dn: uid=dev1,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Aarav Sharma
+sn: Sharma
+uid: dev1
+mail: aarav.sharma@example.com
+userPassword: dev123
+
+dn: uid=dev2,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Vivaan Patel
+sn: Patel
+uid: dev2
+mail: vivaan.patel@example.com
+userPassword: dev123
+
+dn: uid=dev3,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Aditya Verma
+sn: Verma
+uid: dev3
+mail: aditya.verma@example.com
+userPassword: dev123
+
+dn: uid=dev4,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Arjun Reddy
+sn: Reddy
+uid: dev4
+mail: arjun.reddy@example.com
+userPassword: dev123
+
+dn: uid=dev5,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Rohan Gupta
+sn: Gupta
+uid: dev5
+mail: rohan.gupta@example.com
+userPassword: dev123
+
+dn: uid=dev6,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Kunal Mehta
+sn: Mehta
+uid: dev6
+mail: kunal.mehta@example.com
+userPassword: dev123
+
+dn: uid=dev7,ou=developers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Neha Singh
+sn: Singh
+uid: dev7
+mail: neha.singh@example.com
+userPassword: dev123
+
+
+# ---------- TESTERS ----------
+dn: uid=test1,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Priya Nair
+sn: Nair
+uid: test1
+mail: priya.nair@example.com
+userPassword: test123
+
+dn: uid=test2,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Rahul Das
+sn: Das
+uid: test2
+mail: rahul.das@example.com
+userPassword: test123
+
+dn: uid=test3,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Sneha Iyer
+sn: Iyer
+uid: test3
+mail: sneha.iyer@example.com
+userPassword: test123
+
+dn: uid=test4,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Amit Yadav
+sn: Yadav
+uid: test4
+mail: amit.yadav@example.com
+userPassword: test123
+
+dn: uid=test5,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Pooja Kulkarni
+sn: Kulkarni
+uid: test5
+mail: pooja.kulkarni@example.com
+userPassword: test123
+
+dn: uid=test6,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Sandeep Mishra
+sn: Mishra
+uid: test6
+mail: sandeep.mishra@example.com
+userPassword: test123
+
+dn: uid=test7,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Kavya Menon
+sn: Menon
+uid: test7
+mail: kavya.menon@example.com
+userPassword: test123
+
+dn: uid=test8,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Rohit Jain
+sn: Jain
+uid: test8
+mail: rohit.jain@example.com
+userPassword: test123
+
+dn: uid=test9,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Ananya Chatterjee
+sn: Chatterjee
+uid: test9
+mail: ananya.chatterjee@example.com
+userPassword: test123
+
+dn: uid=test10,ou=testers,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Vikram Joshi
+sn: Joshi
+uid: test10
+mail: vikram.joshi@example.com
+userPassword: test123
+
+
+# ---------- HR ----------
+dn: uid=hr1,ou=hr,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Meera Kapoor
+sn: Kapoor
+uid: hr1
+mail: meera.kapoor@example.com
+userPassword: hr123
+
+dn: uid=hr2,ou=hr,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Rajesh Khanna
+sn: Khanna
+uid: hr2
+mail: rajesh.khanna@example.com
+userPassword: hr123
+
+dn: uid=hr3,ou=hr,dc=example,dc=com
+objectClass: inetOrgPerson
+cn: Sunita Verma
+sn: Verma
+uid: hr3
+mail: sunita.verma@example.com
+userPassword: hr123
