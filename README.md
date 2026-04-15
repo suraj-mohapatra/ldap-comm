@@ -243,4 +243,4 @@ userPassword: hr123
 
 
 
-We are using the Apache Directory Studio to create our LDAP database and make communication. I will try to uplaod tutorials on hopw to set up Apache Directory Studio.
+We are using the Apache Directory Studio to create our LDAP database and make communication. I will try to uplaod tutorials on hopw to set up Apache Directory Studio.  By the time I make tutorial, download it from https://directory.apache.org/studio/
