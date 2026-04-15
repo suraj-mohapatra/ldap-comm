@@ -239,4 +239,8 @@ userPassword: hr123
 | developers | 7 | `dev123` |
 | testers | 10 | `test123` |
 | hr | 3 | `hr123` |
-| **Total** | **20** | — |
+| **Total** | **20** | — |  
+
+
+
+We are using the Apache Directory Studio to create our LDAP database and make communication. I will try to uplaod tutorials on hopw to set up Apache Directory Studio.
